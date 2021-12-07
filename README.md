@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stoyan Tanchev
-- 👀 I’m interested in Python, .Net, C#, JavaScript, SQL, HTML
+- 👀 I’m interested in Python, dotNet, C#, JavaScript, SQL, HTML
 - 🌱 I’m currently learning Python, C#
-- 💞️ I’m looking to collaborate on Python Django projects or C# Projects
+- 💞️ I’m looking to collaborate on dotNet, C# Projects or Python Django projects
 - 📫 How to reach me tony.tanchev@gmail.com
 
 <!---
