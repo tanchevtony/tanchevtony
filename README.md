@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stoyan Tanchev
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, SQL, Power BI, Tableau, Cognos
+- 🌱 I’m currently learning Python, SQL, Power BI, Tableau
 - 💞️ I’m looking to collaborate on Data Analytics, Data Visualisation projects
 - 📫 How to reach me: tony.tanchev@gmail.com
 
