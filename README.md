@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stoyan-(Tony) Tanchev
-- 👀 I’m interested in Data Analysis, Data Engineering, Software testing
-- 🌱 I’m currently learning Python, SQL, Power BI, Tableau
+- 👀 I’m interested in Data Analysis, Data Engineering, QA Manual Software testing
+- 🌱 Python, SQL, Power BI, Tableau, 
 - 💞️ I’m looking to collaborate on Data Analytics, Data Visualisation projects
 - 📫 How to reach me: tony.tanchev@gmail.com
 
